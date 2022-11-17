@@ -1,0 +1,6 @@
+E:\Projects\Cs\TALibraryInCSharp\bin\Debug\TALibraryInCSharp.dll
+E:\Projects\Cs\TALibraryInCSharp\bin\Debug\TALibraryInCSharp.pdb
+E:\Projects\Cs\TALibraryInCSharp\obj\Debug\TALibraryInCSharp.csproj.AssemblyReference.cache
+E:\Projects\Cs\TALibraryInCSharp\obj\Debug\TALibraryInCSharp.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\TALibraryInCSharp\obj\Debug\TALibraryInCSharp.dll
+E:\Projects\Cs\TALibraryInCSharp\obj\Debug\TALibraryInCSharp.pdb

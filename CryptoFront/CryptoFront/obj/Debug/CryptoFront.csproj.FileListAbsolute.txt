@@ -1,0 +1,13 @@
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.AssemblyReference.cache
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.IndicatorEditForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.IndicatorsForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.JobViewer.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.LoginForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.NewJobForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.OrderControl.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.StrategyOptionsForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.UserSettingsForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.WaitForm1.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Properties.Resources.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.GenerateResource.cache

@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Cs\\CryptoCore\\CryptoCore.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Cs\\CryptoCore\\CryptoCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Cs\\CryptoCore\\CryptoCore.csproj",
+        "projectName": "CryptoCore",
+        "projectPath": "E:\\Projects\\Cs\\CryptoCore\\CryptoCore.csproj",
+        "packagesPath": "C:\\Users\\spamukuntala\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Cs\\CryptoCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\spamukuntala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Attivio\\AttiviohelpLoad\\packages": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Projects\\Cs\\TALibraryInCSharp\\TALibraryInCSharp.csproj": {
+                "projectPath": "E:\\Projects\\Cs\\TALibraryInCSharp\\TALibraryInCSharp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "CS-Script": {
+              "target": "Package",
+              "version": "[3.30.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.112, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Projects\\Cs\\TALibraryInCSharp\\TALibraryInCSharp.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Cs\\TALibraryInCSharp\\TALibraryInCSharp.csproj",
+        "projectName": "TALibraryInCSharp",
+        "projectPath": "E:\\Projects\\Cs\\TALibraryInCSharp\\TALibraryInCSharp.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}
