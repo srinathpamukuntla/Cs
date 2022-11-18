@@ -1,3 +1,5 @@
+E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.csproj.AssemblyReference.cache
+E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.csproj.CoreCompileInputs.cache
 E:\Projects\Cs\CryptoCore\bin\Debug\CryptoCore.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\CryptoCore.pdb
 E:\Projects\Cs\CryptoCore\bin\Debug\roslyn\csc.exe
@@ -51,6 +53,7 @@ E:\Projects\Cs\CryptoCore\bin\Debug\roslyn\VBCSCompiler.exe
 E:\Projects\Cs\CryptoCore\bin\Debug\roslyn\VBCSCompiler.exe.config
 E:\Projects\Cs\CryptoCore\bin\Debug\CSScriptLibrary.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\Mono.CSharp.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\Microsoft.CodeAnalysis.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\Microsoft.CodeAnalysis.pdb
 E:\Projects\Cs\CryptoCore\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
@@ -60,15 +63,21 @@ E:\Projects\Cs\CryptoCore\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\Newtonsoft.Json.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\RestSharp.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Buffers.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\System.CodeDom.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\System.Collections.Immutable.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\System.Data.SQLite.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Memory.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Numerics.Vectors.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\System.Reflection.Metadata.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Text.Encodings.Web.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Text.Json.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projects\Cs\CryptoCore\bin\Debug\System.ValueTuple.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\TALibraryInCSharp.dll
 E:\Projects\Cs\CryptoCore\bin\Debug\TALibraryInCSharp.pdb
-E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.csproj.AssemblyReference.cache
-E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.csproj.CoreCompileInputs.cache
 E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.csproj.CopyComplete
 E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.dll
 E:\Projects\Cs\CryptoCore\obj\Debug\CryptoCore.pdb

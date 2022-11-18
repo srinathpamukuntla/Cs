@@ -61,7 +61,7 @@
             },
             "RestSharp": {
               "target": "Package",
-              "version": "[106.6.10, )"
+              "version": "[108.0.2, )"
             },
             "System.CodeDom": {
               "target": "Package",

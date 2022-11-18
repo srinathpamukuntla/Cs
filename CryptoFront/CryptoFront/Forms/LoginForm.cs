@@ -55,6 +55,8 @@ namespace CryptoFront
 
         private void Login()
         {
+            TempGlobla tg = new TempGlobla();
+            tg.CallGet();
             var html = Globals.HTTPGet(Globals.API_ENDPOINT + string.Format("api/user?action=login&username={0}&password={1}", txtUsername.Text, txtPassword.Text)).Trim();
 
             if (html == "error")

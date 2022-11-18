@@ -4,6 +4,7 @@ E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.IndicatorEdit
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.IndicatorsForm.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.JobViewer.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.LoginForm.resources
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.MainForm.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.NewJobForm.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.OrderControl.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.StrategyOptionsForm.resources
@@ -11,6 +12,7 @@ E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.UserSettingsF
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Forms.WaitForm1.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.Properties.Resources.resources
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.GenerateResource.cache
+E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.exe.licenses
 E:\Projects\Cs\CryptoFront\CryptoFront\bin\Debug\CryptoFront.exe.config
 E:\Projects\Cs\CryptoFront\CryptoFront\bin\Debug\CryptoFront.exe
 E:\Projects\Cs\CryptoFront\CryptoFront\bin\Debug\CryptoFront.pdb
@@ -218,8 +220,6 @@ E:\Projects\Cs\CryptoFront\CryptoFront\bin\Debug\tr\Microsoft.CodeAnalysis.Works
 E:\Projects\Cs\CryptoFront\CryptoFront\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Projects\Cs\CryptoFront\CryptoFront\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.exe.config
-E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.MainForm.resources
-E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.exe.licenses
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.GeneratedMSBuildEditorConfig.editorconfig
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.CoreCompileInputs.cache
 E:\Projects\Cs\CryptoFront\CryptoFront\obj\Debug\CryptoFront.csproj.CopyComplete

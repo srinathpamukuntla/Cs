@@ -178,9 +178,9 @@ namespace CryptoCore.Classes
         public static string HTTPGet(string url)
         {
             var http = new RestClient(url);
-            http.CachePolicy = new HttpRequestCachePolicy(HttpRequestCacheLevel.Revalidate);
+            //http.CachePolicy = new HttpRequestCachePolicy(HttpRequestCacheLevel.Revalidate);
 
-            var req = new RestRequest("", Method.GET);
+            var req = new RestRequest("", Method.Get);
             req.AddHeader("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8");
 
             var data = http.Get(req);
@@ -193,9 +193,9 @@ namespace CryptoCore.Classes
         public static string HTTPPost(string url,Dictionary<string,string> data)
         {
             var http = new RestClient(url);
-            http.CachePolicy = new HttpRequestCachePolicy(HttpRequestCacheLevel.Revalidate);
+            //http.CachePolicy = new HttpRequestCachePolicy(HttpRequestCacheLevel.Revalidate);
 
-            var req = new RestRequest("", Method.POST);
+            var req = new RestRequest("", Method.Post);
             req.AddHeader("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8");
 
             req.AddJsonBody(JsonConvert.SerializeObject(data));
@@ -393,6 +393,17 @@ namespace CryptoCore.Classes
 
 
 
+
+    }
+}
+public class TempGlobla{
+    public TempGlobla()
+    {
+
+    }
+
+    public void CallGet()
+    {
 
     }
 }

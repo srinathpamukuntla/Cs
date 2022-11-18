@@ -83,7 +83,7 @@
       <Version>12.0.3</Version>
     </PackageReference>
     <PackageReference Include="RestSharp">
-      <Version>106.6.10</Version>
+      <Version>108.0.2</Version>
     </PackageReference>
     <PackageReference Include="System.CodeDom">
       <Version>4.7.0</Version>

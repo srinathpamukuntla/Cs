@@ -27,12 +27,12 @@ namespace CryptoAPI
             CryptoGlobals.InitGlobals();
 
 
-            var balances = CryptoGlobals.adminBinanceClient.GetAccountInfo();
+            //var balances = CryptoGlobals.adminBinanceClient.GetAccountInfo();
 
             DBHelper.CreateTables();
             CryptoGlobals.FillMarketsInDB();
 
-            var test = CryptoGlobals.adminBinanceClient.Get24HPricesList();
+           // var test = CryptoGlobals.adminBinanceClient.Get24HPricesList();
 
             CreateWebHostBuilder(args).Build().Run();
         }

@@ -1,3 +1,9 @@
+E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.csproj.AssemblyReference.cache
+E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.AssemblyInfoInputs.cache
+E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.AssemblyInfo.cs
+E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\appsettings.Development.json
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\appsettings.json
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\CryptoAPI.exe
@@ -10,6 +16,7 @@ E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\CryptoExchange.Net.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\CSScriptLibrary.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\Mono.CSharp.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\CSScriptLib.dll
+E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\FastColoredTextBox.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
@@ -83,16 +90,9 @@ E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\CryptoCore.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\TALibraryInCSharp.dll
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\CryptoCore.pdb
 E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\TALibraryInCSharp.pdb
-E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.csproj.AssemblyReference.cache
-E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.GeneratedMSBuildEditorConfig.editorconfig
-E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.AssemblyInfoInputs.cache
-E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.AssemblyInfo.cs
-E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.csproj.CoreCompileInputs.cache
-E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.csproj.CopyComplete
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.dll
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\refint\CryptoAPI.dll
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.pdb
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.genruntimeconfig.cache
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\ref\CryptoAPI.dll
-E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\FastColoredTextBox.dll

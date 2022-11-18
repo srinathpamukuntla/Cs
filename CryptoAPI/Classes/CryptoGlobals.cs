@@ -14,12 +14,25 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 
+
+public class BinanceClient2 : BinanceClient
+{
+    internal void SetApiCredentials2(string dEFAULT_BINANCE_KEY, string dEFAULT_BINANCE_SECRET)
+    {
+        
+    }
+
+    internal dynamic GetAccountInfo2()
+    {
+        return  new  { data =1 };
+    }
+}
 namespace CryptoAPI.Classes
 {
     public static class CryptoGlobals
     {
 
-        public static BinanceClient adminBinanceClient;
+        public static BinanceClient2 adminBinanceClient;
 
         public static List<string> GoodMarkets;
 
@@ -45,21 +58,21 @@ namespace CryptoAPI.Classes
                 }
             }
 
-            adminBinanceClient = new BinanceClient();
-            adminBinanceClient.SetApiCredentials(CryptoCore.Classes.Globals.DEFAULT_BINANCE_KEY,
+            adminBinanceClient = new BinanceClient2();
+            adminBinanceClient.SetApiCredentials2(CryptoCore.Classes.Globals.DEFAULT_BINANCE_KEY,
                 CryptoCore.Classes.Globals.DEFAULT_BINANCE_SECRET); // just for candles
 
-            var req = adminBinanceClient.GetAccountInfo();
+         /*   var req = adminBinanceClient.GetAccountInfo2();
             adminAccountInfo = req.Data;
 
             if (req.Error!=null)
             {
                 // error
                 adminAccountInfo = null;
-            }
+            }*/
 
-            var usdtBalance = GetBalance("usdt");
-            var btc = GetBalance("btc");
+           // var usdtBalance = GetBalance("usdt");
+           // var btc = GetBalance("btc");
 
             GoodMarkets = new List<string>();
             GoodMarkets.Add("BTCUSDT");
