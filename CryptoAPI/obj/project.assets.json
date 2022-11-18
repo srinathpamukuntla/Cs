@@ -71,6 +71,15 @@
           }
         }
       },
+      "FCTB/2.16.24": {
+        "type": "package",
+        "compile": {
+          "lib/FastColoredTextBox.dll": {}
+        },
+        "runtime": {
+          "lib/FastColoredTextBox.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Razor.Design/2.1.1": {
         "type": "package",
         "build": {
@@ -2257,6 +2266,19 @@
         "cs-script.core.nuspec",
         "lib/netstandard2.0/CSScriptLib.dll",
         "lib/netstandard2.0/CSScriptLib.xml"
+      ]
+    },
+    "FCTB/2.16.24": {
+      "sha512": "7E+vfTh4kV4Cz9hkHehgbmJQh03EdaMWyjY3T9YA4snqI7Bi11zlAvJgyO5HNdkL+Znzas8yyYE9vuF+izxWQw==",
+      "type": "package",
+      "path": "fctb/2.16.24",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fctb.2.16.24.nupkg.sha512",
+        "fctb.nuspec",
+        "lib/FastColoredTextBox.dll",
+        "lib/FastColoredTextBox.xml"
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
@@ -6668,6 +6690,7 @@
       "Binance.Net >= 4.0.17",
       "CS-Script.Core >= 1.2.3",
       "CryptoCore >= 1.0.0",
+      "FCTB >= 2.16.24",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.1",
       "System.Data.SQLite.Core >= 1.0.112"
     ]
@@ -6724,6 +6747,10 @@
             "target": "Package",
             "version": "[1.2.3, )"
           },
+          "FCTB": {
+            "target": "Package",
+            "version": "[2.16.24, )"
+          },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
             "target": "Package",
@@ -6764,6 +6791,16 @@
       "warningLevel": 1,
       "message": "Package 'CS-Script.bin 3.30.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "CS-Script.bin",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FCTB 2.16.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FCTB",
       "targetGraphs": [
         "net6.0"
       ]

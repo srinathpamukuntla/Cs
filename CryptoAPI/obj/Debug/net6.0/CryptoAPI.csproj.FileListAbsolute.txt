@@ -95,3 +95,4 @@ E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\refint\CryptoAPI.dll
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.pdb
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\CryptoAPI.genruntimeconfig.cache
 E:\Projects\Cs\CryptoAPI\obj\Debug\net6.0\ref\CryptoAPI.dll
+E:\Projects\Cs\CryptoAPI\bin\Debug\net6.0\FastColoredTextBox.dll

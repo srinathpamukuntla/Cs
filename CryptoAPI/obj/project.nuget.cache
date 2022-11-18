@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z0FV/KzHorZruvMv+lSA9IW6f/dIQZj9LxHOzIC4a4y4CGrbhxnJxoQaIkT3IIE88/lbopKuFlZ1sgLE5JqG5A==",
+  "dgSpecHash": "z1fDcjwn/AESayS83pHNxIgUHIyZK0DoH+ZzVLq7BbWDoZvmnvcxicAlb1C1Hy5lIy63iQPnYBVpwGtb8+28hA==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Cs\\CryptoAPI\\CryptoAPI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\spamukuntala\\.nuget\\packages\\cs-script\\3.30.0\\cs-script.3.30.0.nupkg.sha512",
     "C:\\Users\\spamukuntala\\.nuget\\packages\\cs-script.bin\\3.30.0\\cs-script.bin.3.30.0.nupkg.sha512",
     "C:\\Users\\spamukuntala\\.nuget\\packages\\cs-script.core\\1.2.3\\cs-script.core.1.2.3.nupkg.sha512",
+    "C:\\Users\\spamukuntala\\.nuget\\packages\\fctb\\2.16.24\\fctb.2.16.24.nupkg.sha512",
     "C:\\Users\\spamukuntala\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.1.1\\microsoft.aspnetcore.razor.design.2.1.1.nupkg.sha512",
     "C:\\Users\\spamukuntala\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.6.1\\microsoft.codeanalysis.analyzers.2.6.1.nupkg.sha512",
     "C:\\Users\\spamukuntala\\.nuget\\packages\\microsoft.codeanalysis.common\\2.10.0\\microsoft.codeanalysis.common.2.10.0.nupkg.sha512",
@@ -123,6 +124,16 @@
       "warningLevel": 1,
       "message": "Package 'CS-Script.bin 3.30.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "CS-Script.bin",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FCTB 2.16.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FCTB",
       "targetGraphs": [
         "net6.0"
       ]

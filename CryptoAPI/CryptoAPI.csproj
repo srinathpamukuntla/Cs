@@ -25,6 +25,7 @@
   <ItemGroup>
     <PackageReference Include="Binance.Net" Version="4.0.17" />
     <PackageReference Include="CS-Script.Core" Version="1.2.3" />
+    <PackageReference Include="FCTB" Version="2.16.24" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.1" PrivateAssets="All" />
     <PackageReference Include="System.Data.SQLite.Core" Version="1.0.112" />
